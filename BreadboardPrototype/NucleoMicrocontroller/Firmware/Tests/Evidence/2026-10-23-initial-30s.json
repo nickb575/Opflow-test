@@ -1,0 +1,33 @@
+﻿{
+  "source": "Tests\\Evidence\\2026-10-23-initial-30s.log",
+  "lines": 600,
+  "malformed_lines": 0,
+  "status_counts": {
+    "OK": 600
+  },
+  "mcu_span_seconds": 29.952,
+  "display_lines_per_second": 19.99866452991453,
+  "max_reported_errors": 0,
+  "timestamp_advances": true,
+  "samples_per_second": 99.949924887331,
+  "sample_sequence_advances": true,
+  "maximum_sample_age_ms": 9,
+  "first_window": {
+    "requested_seconds": 10,
+    "displayed_samples": 200,
+    "observed_span_seconds": 9.95,
+    "acceleration_magnitude_mean_mg": 989.3393958671494,
+    "acceleration_magnitude_stddev_mg": 2.3727168444357867,
+    "gyro_mean_mdps": {
+      "gx_mdps": -1399.33,
+      "gy_mdps": 523.445,
+      "gz_mdps": 306.995
+    },
+    "gyro_stddev_mdps": {
+      "gx_mdps": 29.015704368496728,
+      "gy_mdps": 29.795250879964076,
+      "gz_mdps": 26.113884716755567
+    },
+    "interpretation": "Bias/noise estimate requires the sensor to have remained stationary throughout this window; uses the displayed 20 Hz subset."
+  }
+}

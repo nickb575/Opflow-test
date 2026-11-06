@@ -1,0 +1,68 @@
+Mpu6050.cpp
+FakeImuBus.cpp
+Paw3902.cpp
+FakeFlowBus.cpp
+App.cpp
+AppTests.cpp
+Generating Code...
+[RUN ] UART cadence, completion and buffer ownership
+[PASS] UART cadence, completion and buffer ownership
+[RUN ] UART missed deadlines
+[PASS] UART missed deadlines
+[RUN ] UART timeout with stopped HAL tick
+[PASS] UART timeout with stopped HAL tick
+[RUN ] UART cycle-counter rollover
+[PASS] UART cycle-counter rollover
+[RUN ] UART start failures
+[PASS] UART start failures
+[RUN ] UART callbacks and interrupt masks
+[PASS] UART callbacks and interrupt masks
+[RUN ] Live measurements and stale serial output
+[PASS] Live measurements and stale serial output
+[RUN ] Combined flow and IMU output with independent faults
+[PASS] Combined flow and IMU output with independent faults
+8 UART/application scenarios: PASS (0 failed checks)
+Mpu6050.cpp
+FakeImuBus.cpp
+Mpu6050Tests.cpp
+Generating Code...
+[RUN ] Signed decoding and unit conversions
+[PASS] Signed decoding and unit conversions
+[RUN ] Identity, configuration and acquisition cadence
+[PASS] Identity, configuration and acquisition cadence
+[RUN ] Wrong identity and initialization retry
+[PASS] Wrong identity and initialization retry
+[RUN ] Missing device, failed reads and reconnect
+[PASS] Missing device, failed reads and reconnect
+[RUN ] Configuration readback mismatch
+[PASS] Configuration readback mismatch
+[RUN ] Stale-data boundary and recovery
+[PASS] Stale-data boundary and recovery
+[RUN ] Transfer timeout and hardware BUSY
+[PASS] Transfer timeout and hardware BUSY
+[RUN ] Sensor millisecond rollover
+[PASS] Sensor millisecond rollover
+8 MPU6050 scenarios: PASS (0 failed checks)
+Paw3902.cpp
+FakeFlowBus.cpp
+Paw3902Tests.cpp
+Generating Code...
+[RUN ] Motion-burst layout, signed counts and shutter mask
+[PASS] Motion-burst layout, signed counts and shutter mask
+[RUN ] Identity, initialization, reset timing and acquisition
+[PASS] Identity, initialization, reset timing and acquisition
+[RUN ] Startup discard and valid stationary readings
+[PASS] Startup discard and valid stationary readings
+[RUN ] Wrong product, revision and inverse IDs
+[PASS] Wrong product, revision and inverse IDs
+[RUN ] Read/write failures invalidate measurements
+[PASS] Read/write failures invalidate measurements
+[RUN ] Optical tracking quality and bright-mode boundaries
+[PASS] Optical tracking quality and bright-mode boundaries
+[RUN ] Stale-data deadline and initialization recovery
+[PASS] Stale-data deadline and initialization recovery
+[RUN ] SPI all-zero disconnect and reconnect
+[PASS] SPI all-zero disconnect and reconnect
+[RUN ] Flow millisecond rollover
+[PASS] Flow millisecond rollover
+9 PAW3902 scenarios: PASS (0 failed checks)

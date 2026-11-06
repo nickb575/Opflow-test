@@ -1,0 +1,201 @@
+IMU t_ms=3100 sample_ms=3096 seq=295 ax_mg=62 ay_mg=-27 az_mg=981 gx_mdps=-1511 gy_mdps=473 gz_mdps=312 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3100 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=3 attempts=3 spi=0x00000000
+IMU t_ms=3150 sample_ms=3146 seq=300 ax_mg=66 ay_mg=-23 az_mg=979 gx_mdps=-1473 gy_mdps=511 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3150 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=3 attempts=3 spi=0x00000000
+IMU t_ms=3200 sample_ms=3196 seq=305 ax_mg=65 ay_mg=-25 az_mg=984 gx_mdps=-1473 gy_mdps=572 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3200 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=3 attempts=3 spi=0x00000000
+IMU t_ms=3250 sample_ms=3246 seq=310 ax_mg=67 ay_mg=-25 az_mg=977 gx_mdps=-1473 gy_mdps=557 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3250 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=3 attempts=3 spi=0x00000000
+IMU t_ms=3300 sample_ms=3296 seq=315 ax_mg=65 ay_mg=-26 az_mg=978 gx_mdps=-1427 gy_mdps=534 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3300 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=3 attempts=3 spi=0x00000000
+IMU t_ms=3350 sample_ms=3346 seq=320 ax_mg=67 ay_mg=-21 az_mg=979 gx_mdps=-1458 gy_mdps=519 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3350 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=3 attempts=4 spi=0x00000000
+IMU t_ms=3400 sample_ms=3396 seq=325 ax_mg=65 ay_mg=-27 az_mg=977 gx_mdps=-1412 gy_mdps=564 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3400 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=3 attempts=4 spi=0x00000000
+IMU t_ms=3450 sample_ms=3446 seq=330 ax_mg=67 ay_mg=-25 az_mg=979 gx_mdps=-1450 gy_mdps=511 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3450 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3500 sample_ms=3496 seq=335 ax_mg=64 ay_mg=-28 az_mg=980 gx_mdps=-1442 gy_mdps=534 gz_mdps=297 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3500 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3550 sample_ms=3546 seq=340 ax_mg=70 ay_mg=-24 az_mg=982 gx_mdps=-1458 gy_mdps=488 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3550 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3600 sample_ms=3596 seq=345 ax_mg=62 ay_mg=-24 az_mg=976 gx_mdps=-1480 gy_mdps=557 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3600 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3650 sample_ms=3646 seq=350 ax_mg=66 ay_mg=-28 az_mg=982 gx_mdps=-1389 gy_mdps=511 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3650 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3700 sample_ms=3696 seq=355 ax_mg=65 ay_mg=-23 az_mg=983 gx_mdps=-1374 gy_mdps=526 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3700 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3750 sample_ms=3746 seq=360 ax_mg=66 ay_mg=-24 az_mg=980 gx_mdps=-1496 gy_mdps=534 gz_mdps=221 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3750 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3800 sample_ms=3796 seq=365 ax_mg=63 ay_mg=-24 az_mg=979 gx_mdps=-1480 gy_mdps=519 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3800 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3850 sample_ms=3848 seq=370 ax_mg=67 ay_mg=-23 az_mg=981 gx_mdps=-1404 gy_mdps=519 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3850 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3900 sample_ms=3898 seq=375 ax_mg=63 ay_mg=-25 az_mg=981 gx_mdps=-1419 gy_mdps=564 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3900 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=3950 sample_ms=3948 seq=380 ax_mg=65 ay_mg=-25 az_mg=984 gx_mdps=-1435 gy_mdps=580 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=3950 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4000 sample_ms=3998 seq=385 ax_mg=65 ay_mg=-26 az_mg=984 gx_mdps=-1465 gy_mdps=557 gz_mdps=312 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4000 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4050 sample_ms=4048 seq=390 ax_mg=66 ay_mg=-24 az_mg=979 gx_mdps=-1435 gy_mdps=572 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4050 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4100 sample_ms=4098 seq=395 ax_mg=67 ay_mg=-25 az_mg=984 gx_mdps=-1404 gy_mdps=541 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4100 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4150 sample_ms=4148 seq=400 ax_mg=63 ay_mg=-21 az_mg=977 gx_mdps=-1450 gy_mdps=549 gz_mdps=244 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4150 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4200 sample_ms=4198 seq=405 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1396 gy_mdps=564 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4200 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4250 sample_ms=4248 seq=410 ax_mg=64 ay_mg=-20 az_mg=981 gx_mdps=-1442 gy_mdps=519 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4250 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4300 sample_ms=4298 seq=415 ax_mg=66 ay_mg=-24 az_mg=979 gx_mdps=-1442 gy_mdps=534 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4300 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4350 sample_ms=4348 seq=420 ax_mg=65 ay_mg=-26 az_mg=982 gx_mdps=-1419 gy_mdps=557 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4350 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4400 sample_ms=4398 seq=425 ax_mg=66 ay_mg=-23 az_mg=979 gx_mdps=-1412 gy_mdps=580 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4400 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=4 attempts=4 spi=0x00000000
+IMU t_ms=4450 sample_ms=4448 seq=430 ax_mg=63 ay_mg=-23 az_mg=977 gx_mdps=-1450 gy_mdps=564 gz_mdps=297 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4450 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=4 attempts=5 spi=0x00000000
+IMU t_ms=4500 sample_ms=4498 seq=435 ax_mg=64 ay_mg=-26 az_mg=981 gx_mdps=-1427 gy_mdps=549 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4500 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=4 attempts=5 spi=0x00000000
+IMU t_ms=4550 sample_ms=4548 seq=440 ax_mg=67 ay_mg=-23 az_mg=982 gx_mdps=-1427 gy_mdps=458 gz_mdps=229 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4550 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4600 sample_ms=4598 seq=445 ax_mg=62 ay_mg=-26 az_mg=979 gx_mdps=-1450 gy_mdps=511 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4600 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4650 sample_ms=4648 seq=450 ax_mg=64 ay_mg=-29 az_mg=980 gx_mdps=-1396 gy_mdps=564 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4650 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4700 sample_ms=4698 seq=455 ax_mg=65 ay_mg=-24 az_mg=977 gx_mdps=-1396 gy_mdps=534 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4700 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4750 sample_ms=4748 seq=460 ax_mg=64 ay_mg=-27 az_mg=982 gx_mdps=-1458 gy_mdps=488 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4750 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4800 sample_ms=4798 seq=465 ax_mg=62 ay_mg=-23 az_mg=982 gx_mdps=-1412 gy_mdps=488 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4800 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4850 sample_ms=4848 seq=470 ax_mg=65 ay_mg=-24 az_mg=984 gx_mdps=-1412 gy_mdps=557 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4850 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4900 sample_ms=4898 seq=475 ax_mg=65 ay_mg=-23 az_mg=981 gx_mdps=-1442 gy_mdps=511 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4900 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=4950 sample_ms=4948 seq=480 ax_mg=69 ay_mg=-24 az_mg=981 gx_mdps=-1465 gy_mdps=534 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=4950 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5000 sample_ms=4998 seq=485 ax_mg=64 ay_mg=-20 az_mg=982 gx_mdps=-1404 gy_mdps=549 gz_mdps=244 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5000 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5050 sample_ms=5048 seq=490 ax_mg=64 ay_mg=-24 az_mg=979 gx_mdps=-1381 gy_mdps=511 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5050 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5100 sample_ms=5098 seq=495 ax_mg=64 ay_mg=-23 az_mg=984 gx_mdps=-1435 gy_mdps=587 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5100 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5150 sample_ms=5148 seq=500 ax_mg=69 ay_mg=-24 az_mg=980 gx_mdps=-1465 gy_mdps=541 gz_mdps=335 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5150 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5200 sample_ms=5198 seq=505 ax_mg=66 ay_mg=-20 az_mg=982 gx_mdps=-1442 gy_mdps=557 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5200 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5250 sample_ms=5248 seq=510 ax_mg=65 ay_mg=-24 az_mg=979 gx_mdps=-1404 gy_mdps=564 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5250 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5300 sample_ms=5298 seq=515 ax_mg=63 ay_mg=-24 az_mg=980 gx_mdps=-1435 gy_mdps=496 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5300 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5350 sample_ms=5348 seq=520 ax_mg=65 ay_mg=-24 az_mg=981 gx_mdps=-1435 gy_mdps=541 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5350 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5400 sample_ms=5398 seq=525 ax_mg=64 ay_mg=-25 az_mg=981 gx_mdps=-1442 gy_mdps=557 gz_mdps=305 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5400 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5450 sample_ms=5448 seq=530 ax_mg=66 ay_mg=-26 az_mg=975 gx_mdps=-1419 gy_mdps=572 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5450 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5500 sample_ms=5498 seq=535 ax_mg=63 ay_mg=-25 az_mg=977 gx_mdps=-1427 gy_mdps=564 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5500 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=5 attempts=5 spi=0x00000000
+IMU t_ms=5550 sample_ms=5548 seq=540 ax_mg=64 ay_mg=-24 az_mg=978 gx_mdps=-1488 gy_mdps=534 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5550 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=5 attempts=6 spi=0x00000000
+IMU t_ms=5600 sample_ms=5598 seq=545 ax_mg=65 ay_mg=-25 az_mg=976 gx_mdps=-1358 gy_mdps=534 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5600 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=5 attempts=6 spi=0x00000000
+IMU t_ms=5650 sample_ms=5648 seq=550 ax_mg=64 ay_mg=-21 az_mg=981 gx_mdps=-1435 gy_mdps=526 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5650 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5700 sample_ms=5698 seq=555 ax_mg=67 ay_mg=-27 az_mg=979 gx_mdps=-1435 gy_mdps=503 gz_mdps=221 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5700 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5750 sample_ms=5748 seq=560 ax_mg=64 ay_mg=-26 az_mg=983 gx_mdps=-1404 gy_mdps=618 gz_mdps=328 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5750 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5800 sample_ms=5798 seq=565 ax_mg=67 ay_mg=-27 az_mg=981 gx_mdps=-1419 gy_mdps=541 gz_mdps=320 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5800 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5850 sample_ms=5848 seq=570 ax_mg=63 ay_mg=-24 az_mg=979 gx_mdps=-1412 gy_mdps=534 gz_mdps=213 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5850 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5900 sample_ms=5898 seq=575 ax_mg=68 ay_mg=-23 az_mg=981 gx_mdps=-1381 gy_mdps=534 gz_mdps=244 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5900 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=5950 sample_ms=5948 seq=580 ax_mg=61 ay_mg=-23 az_mg=982 gx_mdps=-1465 gy_mdps=572 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=5950 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6000 sample_ms=5998 seq=585 ax_mg=66 ay_mg=-26 az_mg=980 gx_mdps=-1458 gy_mdps=511 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6000 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6050 sample_ms=6048 seq=590 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1427 gy_mdps=526 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6050 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6100 sample_ms=6098 seq=595 ax_mg=66 ay_mg=-28 az_mg=981 gx_mdps=-1396 gy_mdps=534 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6100 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6150 sample_ms=6148 seq=600 ax_mg=65 ay_mg=-26 az_mg=979 gx_mdps=-1465 gy_mdps=496 gz_mdps=229 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6150 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6200 sample_ms=6198 seq=605 ax_mg=63 ay_mg=-22 az_mg=983 gx_mdps=-1427 gy_mdps=534 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6200 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6250 sample_ms=6248 seq=610 ax_mg=65 ay_mg=-25 az_mg=982 gx_mdps=-1519 gy_mdps=534 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6250 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6300 sample_ms=6298 seq=615 ax_mg=65 ay_mg=-23 az_mg=978 gx_mdps=-1427 gy_mdps=519 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6300 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6350 sample_ms=6348 seq=620 ax_mg=65 ay_mg=-22 az_mg=979 gx_mdps=-1427 gy_mdps=564 gz_mdps=312 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6350 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6400 sample_ms=6398 seq=625 ax_mg=66 ay_mg=-25 az_mg=981 gx_mdps=-1435 gy_mdps=511 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6400 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6450 sample_ms=6448 seq=630 ax_mg=65 ay_mg=-24 az_mg=981 gx_mdps=-1480 gy_mdps=526 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6450 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6500 sample_ms=6498 seq=635 ax_mg=65 ay_mg=-27 az_mg=975 gx_mdps=-1435 gy_mdps=496 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6500 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6550 sample_ms=6548 seq=640 ax_mg=64 ay_mg=-24 az_mg=977 gx_mdps=-1465 gy_mdps=503 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6550 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6600 sample_ms=6598 seq=645 ax_mg=64 ay_mg=-21 az_mg=978 gx_mdps=-1412 gy_mdps=526 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6600 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=6 attempts=6 spi=0x00000000
+IMU t_ms=6650 sample_ms=6648 seq=650 ax_mg=66 ay_mg=-23 az_mg=980 gx_mdps=-1396 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6650 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=6 attempts=7 spi=0x00000000
+IMU t_ms=6700 sample_ms=6698 seq=655 ax_mg=63 ay_mg=-23 az_mg=981 gx_mdps=-1488 gy_mdps=526 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6700 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=6 attempts=7 spi=0x00000000
+IMU t_ms=6750 sample_ms=6748 seq=660 ax_mg=66 ay_mg=-25 az_mg=979 gx_mdps=-1442 gy_mdps=572 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6750 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=6800 sample_ms=6798 seq=665 ax_mg=66 ay_mg=-26 az_mg=977 gx_mdps=-1450 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6800 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=6850 sample_ms=6848 seq=670 ax_mg=63 ay_mg=-22 az_mg=978 gx_mdps=-1404 gy_mdps=541 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6850 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=6900 sample_ms=6898 seq=675 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1412 gy_mdps=564 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6900 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=6950 sample_ms=6948 seq=680 ax_mg=66 ay_mg=-26 az_mg=980 gx_mdps=-1442 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=6950 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7000 sample_ms=6998 seq=685 ax_mg=65 ay_mg=-24 az_mg=988 gx_mdps=-1473 gy_mdps=549 gz_mdps=259 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7000 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7050 sample_ms=7048 seq=690 ax_mg=66 ay_mg=-23 az_mg=979 gx_mdps=-1396 gy_mdps=557 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7050 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7100 sample_ms=7098 seq=695 ax_mg=65 ay_mg=-23 az_mg=983 gx_mdps=-1389 gy_mdps=572 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7100 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7150 sample_ms=7148 seq=700 ax_mg=65 ay_mg=-25 az_mg=982 gx_mdps=-1435 gy_mdps=541 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7150 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7200 sample_ms=7198 seq=705 ax_mg=67 ay_mg=-20 az_mg=976 gx_mdps=-1404 gy_mdps=557 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7200 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7250 sample_ms=7248 seq=710 ax_mg=65 ay_mg=-25 az_mg=978 gx_mdps=-1427 gy_mdps=511 gz_mdps=290 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7250 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7300 sample_ms=7298 seq=715 ax_mg=65 ay_mg=-24 az_mg=977 gx_mdps=-1465 gy_mdps=564 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7300 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7350 sample_ms=7350 seq=720 ax_mg=64 ay_mg=-25 az_mg=985 gx_mdps=-1427 gy_mdps=557 gz_mdps=297 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7350 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7400 sample_ms=7400 seq=725 ax_mg=62 ay_mg=-24 az_mg=980 gx_mdps=-1442 gy_mdps=519 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7400 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7450 sample_ms=7450 seq=730 ax_mg=65 ay_mg=-23 az_mg=980 gx_mdps=-1396 gy_mdps=541 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7450 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7500 sample_ms=7500 seq=735 ax_mg=67 ay_mg=-24 az_mg=980 gx_mdps=-1465 gy_mdps=549 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7500 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7550 sample_ms=7550 seq=740 ax_mg=67 ay_mg=-26 az_mg=982 gx_mdps=-1427 gy_mdps=564 gz_mdps=282 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7550 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7600 sample_ms=7600 seq=745 ax_mg=67 ay_mg=-24 az_mg=980 gx_mdps=-1412 gy_mdps=587 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7600 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7650 sample_ms=7650 seq=750 ax_mg=64 ay_mg=-25 az_mg=981 gx_mdps=-1389 gy_mdps=511 gz_mdps=236 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7650 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7700 sample_ms=7700 seq=755 ax_mg=68 ay_mg=-24 az_mg=982 gx_mdps=-1480 gy_mdps=496 gz_mdps=251 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7700 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=7 attempts=7 spi=0x00000000
+IMU t_ms=7750 sample_ms=7750 seq=760 ax_mg=64 ay_mg=-25 az_mg=980 gx_mdps=-1442 gy_mdps=503 gz_mdps=297 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7750 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=7 attempts=8 spi=0x00000000
+IMU t_ms=7800 sample_ms=7800 seq=765 ax_mg=68 ay_mg=-25 az_mg=979 gx_mdps=-1389 gy_mdps=503 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7800 seq=0 status=INITIALIZING id=0x00 rev=0x00 inv=0x00 errors=7 attempts=8 spi=0x00000000
+IMU t_ms=7850 sample_ms=7850 seq=770 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1442 gy_mdps=541 gz_mdps=320 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7850 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=8 attempts=8 spi=0x00000000
+IMU t_ms=7901 sample_ms=7900 seq=775 ax_mg=63 ay_mg=-23 az_mg=985 gx_mdps=-1435 gy_mdps=519 gz_mdps=297 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7901 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=8 attempts=8 spi=0x00000000
+IMU t_ms=7951 sample_ms=7950 seq=780 ax_mg=62 ay_mg=-23 az_mg=979 gx_mdps=-1465 gy_mdps=564 gz_mdps=274 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=7951 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=8 attempts=8 spi=0x00000000
+IMU t_ms=8001 sample_ms=8000 seq=785 ax_mg=65 ay_mg=-23 az_mg=978 gx_mdps=-1412 gy_mdps=519 gz_mdps=229 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=8001 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=8 attempts=8 spi=0x00000000
+IMU t_ms=8051 sample_ms=8050 seq=790 ax_mg=64 ay_mg=-22 az_mg=976 gx_mdps=-1419 gy_mdps=541 gz_mdps=267 status=OK id=0x68 config=OK errors=0
+FLOW t_ms=8051 seq=0 status=WRONG_ID id=0x00 rev=0x00 inv=0x00 errors=8 attempts=8 spi=0x00000000
+IMU t_ms=8101 sample_ms=8100 seq=795 ax_mg=66 ay_mg=-24 az_mg=977 gx_mdps=-1419 gy_mdps=503 gz_mdps=297 status=OK id=0x68 config=OK errors=0

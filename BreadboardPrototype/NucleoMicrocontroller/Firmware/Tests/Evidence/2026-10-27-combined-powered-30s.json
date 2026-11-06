@@ -1,0 +1,40 @@
+﻿{
+    "date":  "2026-10-27",
+    "board":  "NUCLEO-F103RB",
+    "port":  "COM11",
+    "baud":  115200,
+    "firmware_sha256":  "3B25A9D7C5FBC8A78C957956BCD91F9117A5803602294194367B80F586D28237",
+    "source":  "2026-10-27-combined-powered-30s.log",
+    "imu":  {
+                "lines":  599,
+                "status":  "OK",
+                "errors_start":  0,
+                "errors_end":  0,
+                "samples_per_second":  99.929768235176084,
+                "display_lines_per_second":  19.997324772605669,
+                "maximum_sample_age_ms":  11,
+                "identity":  "0x68"
+            },
+    "flow":  {
+                 "lines":  600,
+                 "status":  "TRACKING",
+                 "errors_start":  0,
+                 "errors_end":  0,
+                 "samples_per_second":  100,
+                 "display_lines_per_second":  19.997329905188,
+                 "maximum_sample_age_ms":  4,
+                 "product_id":  "0x49",
+                 "revision_id":  "0x01",
+                 "inverse_id":  "0xB6",
+                 "dx_min":  -15,
+                 "dx_max":  16,
+                 "dy_min":  -12,
+                 "dy_max":  14,
+                 "squal_min":  47,
+                 "squal_max":  100,
+                 "shutter_min":  36,
+                 "shutter_max":  52
+             },
+    "interpretation":  "Communication, configuration, live tracking validity and continuous acquisition verified. Motion was uncontrolled; this is not a calibrated displacement/velocity measurement or a controlled axis/reversal test.",
+    "power_restoration":  "User restored missing sensor power feed; driver recovered automatically. A subsequent MCU reset started a fresh zero-error capture."
+}

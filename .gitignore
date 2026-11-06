@@ -1,0 +1,14 @@
+# Build output
+build/
+*.elf
+*.map
+*.bin
+*.hex
+*.o
+
+# macOS
+.DS_Store
+
+# Local backups
+*.tar.gz
+*.zip

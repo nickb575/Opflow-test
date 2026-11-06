@@ -1,0 +1,117 @@
+########################################################
+#   Running HAL Verification Test - v1.4
+########################################################
+- SPI Slave: 1 
+
+1 > Timer Plausibility Test
+1 > PASS
+
+2 > Timer Wraparound Test
+2 > PASS
+
+3 > SPI Connection Test
+3 > PASS
+
+4 > SPI Maximum Data Length Test
+4 > PASS
+
+5 > GPIO Interrupt Test
+5 > PASS
+
+6 > GPIO Mode Test
+EEPROM Readout succeeded!
+- Module: 3
+- Device ID: 207614
+6 > PASS
+
+7 > Lifetime Counter Timer (LTC) Test
+RCOTrim = -13
++-------+---------+------------+
+| count | samples | elapsed us |
++-------+---------+------------+
+|     1 |     100 |      11487 |
+|     2 |     200 |      21983 |
+|     3 |     300 |      31203 |
+|     4 |     400 |      41178 |
+|     5 |     500 |      51464 |
+|     6 |     600 |      61749 |
+|     7 |     700 |      72033 |
+|     8 |     800 |      82324 |
+|     9 |     900 |      92599 |
+|    10 |    1000 |     102867 |
++-------+---------+------------+
+Linear Regression: y(x) = 1015E-7 sec * x + 10491E-7 sec
+7 > PASS
+
+8 > Periodic Interrupt Timer (PIT) Test
+Run PIT Test (w/ 200000 us interval):
+ - expected event count: 5
+ - expected interval: 200000 us, min: 199000 us, max: 201000 us
+ - expected first event: 200000 us, min: 195000 us, max: 205000 us
+ - actual event count: 5
+ - actual interval: 200000 us
+ - actual first event: 200001 us
+ - actual last event: 1000001 us
+
+ - test status: 0
+
+Run PIT Test (w/ 10000 us interval):
+ - expected event count: 10
+ - expected interval: 10000 us, min: 9950 us, max: 10050 us
+ - expected first event: 10000 us, min: 9750 us, max: 10250 us
+ - actual event count: 10
+ - actual interval: 10000 us
+ - actual first event: 10001 us
+ - actual last event: 100001 us
+
+ - test status: 0
+
+Run PIT Test (w/ 1000 us interval):
+ - expected event count: 500
+ - expected interval: 1000 us, min: 995 us, max: 1005 us
+ - expected first event: 1000 us, min: 925 us, max: 1075 us
+ - actual event count: 500
+ - actual interval: 1000 us
+ - actual first event: 1001 us
+ - actual last event: 500001 us
+
+ - test status: 0
+
+Run PIT Test (w/ 333 us interval):
+ - expected event count: 500
+ - expected interval: 333 us, min: 328 us, max: 338 us
+ - expected first event: 333 us, min: 258 us, max: 408 us
+ - actual event count: 500
+ - actual interval: 333 us
+ - actual first event: 334 us
+ - actual last event: 166501 us
+
+ - test status: 0
+
+8 > PASS
+
+9 > SPI Interrupt Test
+ .1 >> SPI Transfer from SPI Interrupt Test
+Invoking SPI transfer from task level...
+Invoking SPI transfer from SPI interrupt callback...
+Verify read data...
+ .1 >> PASS
+
+ .2 >> SPI Transfer from GPIO Interrupt Test
+Invoking SPI transfer from GPIO interrupt callback...
+Invoking SPI transfer from SPI interrupt callback...
+Verify read data...
+ .2 >> PASS
+
+ .3 >> SPI Transfer from PIT Interrupt Test
+Invoking SPI transfer from PIT interrupt callback...
+Invoking SPI transfer from SPI interrupt callback...
+Verify read data...
+ .3 >> PASS
+
+9 > PASS
+
+########################################################
+#   PASS: HAL Verification Test finished successfully!
+########################################################
+

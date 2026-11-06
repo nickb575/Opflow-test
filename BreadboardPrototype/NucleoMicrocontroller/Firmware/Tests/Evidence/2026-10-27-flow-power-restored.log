@@ -1,0 +1,200 @@
+IMU t_ms=827407 sample_ms=827400 seq=82446 ax_mg=66 ay_mg=-25 az_mg=979 gx_mdps=-1488 gy_mdps=465 gz_mdps=244 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827407 sample_ms=827402 seq=8741 dx=-1 dy=1 mot=1 squal=65 shutter=55 rawsum=87 rawmin=131 rawmax=168 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827457 sample_ms=827450 seq=82451 ax_mg=66 ay_mg=-23 az_mg=976 gx_mdps=-1465 gy_mdps=427 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827457 sample_ms=827452 seq=8746 dx=0 dy=0 mot=0 squal=99 shutter=64 rawsum=126 rawmin=185 rawmax=242 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827507 sample_ms=827500 seq=82456 ax_mg=67 ay_mg=-25 az_mg=983 gx_mdps=-1435 gy_mdps=480 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827507 sample_ms=827502 seq=8751 dx=0 dy=-3 mot=1 squal=80 shutter=48 rawsum=142 rawmin=204 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827557 sample_ms=827550 seq=82461 ax_mg=65 ay_mg=-22 az_mg=980 gx_mdps=-1442 gy_mdps=557 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827557 sample_ms=827552 seq=8756 dx=0 dy=0 mot=0 squal=78 shutter=48 rawsum=108 rawmin=160 rawmax=208 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827607 sample_ms=827600 seq=82466 ax_mg=63 ay_mg=-26 az_mg=979 gx_mdps=-1496 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827607 sample_ms=827602 seq=8761 dx=0 dy=2 mot=1 squal=71 shutter=66 rawsum=97 rawmin=145 rawmax=186 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827657 sample_ms=827650 seq=82471 ax_mg=66 ay_mg=-23 az_mg=981 gx_mdps=-1435 gy_mdps=541 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827657 sample_ms=827652 seq=8766 dx=-1 dy=0 mot=1 squal=62 shutter=59 rawsum=145 rawmin=212 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827707 sample_ms=827700 seq=82476 ax_mg=67 ay_mg=-24 az_mg=980 gx_mdps=-1473 gy_mdps=496 gz_mdps=312 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827707 sample_ms=827702 seq=8771 dx=4 dy=-1 mot=1 squal=99 shutter=47 rawsum=129 rawmin=186 rawmax=247 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827757 sample_ms=827750 seq=82481 ax_mg=64 ay_mg=-23 az_mg=978 gx_mdps=-1419 gy_mdps=534 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827757 sample_ms=827752 seq=8776 dx=0 dy=1 mot=1 squal=63 shutter=52 rawsum=95 rawmin=140 rawmax=183 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827807 sample_ms=827800 seq=82486 ax_mg=63 ay_mg=-24 az_mg=979 gx_mdps=-1412 gy_mdps=480 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827807 sample_ms=827802 seq=8781 dx=2 dy=5 mot=1 squal=86 shutter=64 rawsum=119 rawmin=174 rawmax=228 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827857 sample_ms=827850 seq=82491 ax_mg=64 ay_mg=-26 az_mg=986 gx_mdps=-1442 gy_mdps=541 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827857 sample_ms=827852 seq=8786 dx=-2 dy=2 mot=1 squal=46 shutter=48 rawsum=149 rawmin=221 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827907 sample_ms=827900 seq=82496 ax_mg=65 ay_mg=-24 az_mg=977 gx_mdps=-1427 gy_mdps=503 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827907 sample_ms=827902 seq=8791 dx=0 dy=0 mot=0 squal=86 shutter=43 rawsum=120 rawmin=178 rawmax=231 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=827957 sample_ms=827950 seq=82501 ax_mg=66 ay_mg=-25 az_mg=977 gx_mdps=-1511 gy_mdps=519 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=827957 sample_ms=827952 seq=8796 dx=0 dy=-1 mot=1 squal=65 shutter=55 rawsum=96 rawmin=146 rawmax=185 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828007 sample_ms=828000 seq=82506 ax_mg=64 ay_mg=-27 az_mg=981 gx_mdps=-1473 gy_mdps=480 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828007 sample_ms=828002 seq=8801 dx=0 dy=0 mot=0 squal=76 shutter=49 rawsum=144 rawmin=210 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828057 sample_ms=828050 seq=82511 ax_mg=66 ay_mg=-22 az_mg=981 gx_mdps=-1442 gy_mdps=534 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828057 sample_ms=828052 seq=8806 dx=2 dy=-1 mot=1 squal=100 shutter=38 rawsum=133 rawmin=189 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828107 sample_ms=828100 seq=82516 ax_mg=63 ay_mg=-24 az_mg=983 gx_mdps=-1488 gy_mdps=534 gz_mdps=229 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828107 sample_ms=828102 seq=8811 dx=0 dy=-2 mot=1 squal=70 shutter=40 rawsum=97 rawmin=143 rawmax=188 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828157 sample_ms=828150 seq=82521 ax_mg=62 ay_mg=-22 az_mg=984 gx_mdps=-1450 gy_mdps=526 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828157 sample_ms=828152 seq=8816 dx=0 dy=-3 mot=1 squal=83 shutter=51 rawsum=113 rawmin=163 rawmax=217 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828207 sample_ms=828200 seq=82526 ax_mg=66 ay_mg=-23 az_mg=980 gx_mdps=-1473 gy_mdps=496 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828207 sample_ms=828202 seq=8821 dx=-1 dy=-2 mot=1 squal=59 shutter=41 rawsum=147 rawmin=212 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828257 sample_ms=828250 seq=82531 ax_mg=65 ay_mg=-26 az_mg=980 gx_mdps=-1427 gy_mdps=519 gz_mdps=328 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828257 sample_ms=828252 seq=8826 dx=-7 dy=-6 mot=1 squal=85 shutter=37 rawsum=120 rawmin=171 rawmax=233 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828307 sample_ms=828300 seq=82536 ax_mg=62 ay_mg=-20 az_mg=981 gx_mdps=-1458 gy_mdps=519 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828307 sample_ms=828302 seq=8831 dx=1 dy=-4 mot=1 squal=64 shutter=45 rawsum=87 rawmin=130 rawmax=168 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828357 sample_ms=828350 seq=82541 ax_mg=65 ay_mg=-21 az_mg=979 gx_mdps=-1427 gy_mdps=465 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828357 sample_ms=828352 seq=8836 dx=0 dy=-1 mot=1 squal=86 shutter=49 rawsum=132 rawmin=188 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828407 sample_ms=828400 seq=82546 ax_mg=65 ay_mg=-20 az_mg=978 gx_mdps=-1473 gy_mdps=503 gz_mdps=328 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828407 sample_ms=828402 seq=8841 dx=1 dy=1 mot=1 squal=96 shutter=38 rawsum=137 rawmin=194 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828457 sample_ms=828450 seq=82551 ax_mg=67 ay_mg=-23 az_mg=981 gx_mdps=-1465 gy_mdps=503 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828457 sample_ms=828452 seq=8846 dx=-5 dy=4 mot=1 squal=71 shutter=38 rawsum=104 rawmin=151 rawmax=200 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828507 sample_ms=828500 seq=82556 ax_mg=63 ay_mg=-24 az_mg=977 gx_mdps=-1526 gy_mdps=534 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828507 sample_ms=828502 seq=8851 dx=-1 dy=-1 mot=1 squal=75 shutter=51 rawsum=108 rawmin=156 rawmax=208 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828557 sample_ms=828550 seq=82561 ax_mg=64 ay_mg=-25 az_mg=980 gx_mdps=-1450 gy_mdps=480 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828557 sample_ms=828552 seq=8856 dx=-2 dy=0 mot=1 squal=56 shutter=43 rawsum=148 rawmin=214 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828607 sample_ms=828600 seq=82566 ax_mg=63 ay_mg=-22 az_mg=979 gx_mdps=-1419 gy_mdps=519 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828607 sample_ms=828602 seq=8861 dx=-1 dy=3 mot=1 squal=84 shutter=37 rawsum=123 rawmin=177 rawmax=238 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828657 sample_ms=828650 seq=82571 ax_mg=63 ay_mg=-24 az_mg=976 gx_mdps=-1473 gy_mdps=557 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828657 sample_ms=828652 seq=8866 dx=0 dy=-7 mot=1 squal=63 shutter=45 rawsum=89 rawmin=132 rawmax=169 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828707 sample_ms=828700 seq=82576 ax_mg=63 ay_mg=-22 az_mg=981 gx_mdps=-1488 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828707 sample_ms=828702 seq=8871 dx=0 dy=0 mot=0 squal=84 shutter=49 rawsum=126 rawmin=181 rawmax=244 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828757 sample_ms=828750 seq=82581 ax_mg=63 ay_mg=-23 az_mg=985 gx_mdps=-1435 gy_mdps=564 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828757 sample_ms=828752 seq=8876 dx=0 dy=1 mot=1 squal=79 shutter=38 rawsum=143 rawmin=202 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828807 sample_ms=828800 seq=82586 ax_mg=66 ay_mg=-22 az_mg=981 gx_mdps=-1419 gy_mdps=480 gz_mdps=305 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828807 sample_ms=828802 seq=8881 dx=0 dy=1 mot=1 squal=80 shutter=38 rawsum=109 rawmin=158 rawmax=211 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828857 sample_ms=828850 seq=82591 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1503 gy_mdps=450 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828857 sample_ms=828852 seq=8886 dx=-1 dy=-2 mot=1 squal=68 shutter=51 rawsum=98 rawmin=145 rawmax=188 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828907 sample_ms=828900 seq=82596 ax_mg=65 ay_mg=-23 az_mg=979 gx_mdps=-1450 gy_mdps=557 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828907 sample_ms=828902 seq=8891 dx=-4 dy=-2 mot=1 squal=52 shutter=45 rawsum=148 rawmin=215 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=828957 sample_ms=828950 seq=82601 ax_mg=64 ay_mg=-22 az_mg=980 gx_mdps=-1473 gy_mdps=511 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=828957 sample_ms=828952 seq=8896 dx=1 dy=2 mot=1 squal=94 shutter=37 rawsum=127 rawmin=181 rawmax=245 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829007 sample_ms=829000 seq=82606 ax_mg=66 ay_mg=-24 az_mg=977 gx_mdps=-1480 gy_mdps=549 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829007 sample_ms=829002 seq=8901 dx=0 dy=3 mot=1 squal=62 shutter=43 rawsum=89 rawmin=132 rawmax=169 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829057 sample_ms=829050 seq=82611 ax_mg=62 ay_mg=-23 az_mg=982 gx_mdps=-1412 gy_mdps=534 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829057 sample_ms=829052 seq=8906 dx=1 dy=-3 mot=1 squal=86 shutter=49 rawsum=118 rawmin=169 rawmax=227 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829107 sample_ms=829100 seq=82616 ax_mg=66 ay_mg=-23 az_mg=979 gx_mdps=-1450 gy_mdps=480 gz_mdps=305 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829107 sample_ms=829102 seq=8911 dx=-5 dy=-6 mot=1 squal=57 shutter=40 rawsum=148 rawmin=214 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829157 sample_ms=829150 seq=82621 ax_mg=64 ay_mg=-21 az_mg=982 gx_mdps=-1519 gy_mdps=480 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829157 sample_ms=829152 seq=8916 dx=0 dy=0 mot=0 squal=79 shutter=38 rawsum=115 rawmin=167 rawmax=224 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829207 sample_ms=829200 seq=82626 ax_mg=63 ay_mg=-25 az_mg=983 gx_mdps=-1496 gy_mdps=473 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829207 sample_ms=829202 seq=8921 dx=2 dy=1 mot=1 squal=64 shutter=48 rawsum=92 rawmin=136 rawmax=177 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829257 sample_ms=829250 seq=82631 ax_mg=64 ay_mg=-21 az_mg=982 gx_mdps=-1427 gy_mdps=511 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829257 sample_ms=829252 seq=8926 dx=0 dy=-2 mot=1 squal=82 shutter=45 rawsum=143 rawmin=203 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829308 sample_ms=829300 seq=82636 ax_mg=64 ay_mg=-25 az_mg=978 gx_mdps=-1503 gy_mdps=519 gz_mdps=351 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829308 sample_ms=829302 seq=8931 dx=-1 dy=4 mot=1 squal=86 shutter=37 rawsum=130 rawmin=185 rawmax=252 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829358 sample_ms=829350 seq=82641 ax_mg=63 ay_mg=-21 az_mg=986 gx_mdps=-1366 gy_mdps=587 gz_mdps=221 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829358 sample_ms=829352 seq=8936 dx=0 dy=9 mot=1 squal=61 shutter=41 rawsum=89 rawmin=132 rawmax=171 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829408 sample_ms=829400 seq=82646 ax_mg=66 ay_mg=-21 az_mg=979 gx_mdps=-1465 gy_mdps=473 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829408 sample_ms=829402 seq=8941 dx=0 dy=0 mot=0 squal=78 shutter=49 rawsum=113 rawmin=165 rawmax=220 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829458 sample_ms=829450 seq=82651 ax_mg=63 ay_mg=-27 az_mg=983 gx_mdps=-1435 gy_mdps=511 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829458 sample_ms=829452 seq=8946 dx=-2 dy=2 mot=1 squal=62 shutter=40 rawsum=147 rawmin=212 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829508 sample_ms=829500 seq=82656 ax_mg=65 ay_mg=-19 az_mg=984 gx_mdps=-1465 gy_mdps=526 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829508 sample_ms=829502 seq=8951 dx=0 dy=0 mot=0 squal=89 shutter=38 rawsum=119 rawmin=172 rawmax=229 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829558 sample_ms=829550 seq=82661 ax_mg=63 ay_mg=-27 az_mg=985 gx_mdps=-1503 gy_mdps=595 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829558 sample_ms=829552 seq=8956 dx=0 dy=-2 mot=1 squal=64 shutter=48 rawsum=91 rawmin=136 rawmax=175 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829608 sample_ms=829600 seq=82666 ax_mg=66 ay_mg=-24 az_mg=984 gx_mdps=-1427 gy_mdps=534 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829608 sample_ms=829602 seq=8961 dx=0 dy=-1 mot=1 squal=83 shutter=48 rawsum=143 rawmin=204 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829658 sample_ms=829650 seq=82671 ax_mg=69 ay_mg=-24 az_mg=982 gx_mdps=-1412 gy_mdps=465 gz_mdps=320 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829658 sample_ms=829652 seq=8966 dx=4 dy=1 mot=1 squal=95 shutter=37 rawsum=132 rawmin=188 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829708 sample_ms=829700 seq=82676 ax_mg=63 ay_mg=-23 az_mg=980 gx_mdps=-1465 gy_mdps=503 gz_mdps=244 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829708 sample_ms=829702 seq=8971 dx=0 dy=5 mot=1 squal=68 shutter=41 rawsum=93 rawmin=137 rawmax=178 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829758 sample_ms=829750 seq=82681 ax_mg=65 ay_mg=-22 az_mg=980 gx_mdps=-1465 gy_mdps=549 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829758 sample_ms=829752 seq=8976 dx=0 dy=1 mot=1 squal=75 shutter=49 rawsum=109 rawmin=158 rawmax=210 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829808 sample_ms=829800 seq=82686 ax_mg=66 ay_mg=-24 az_mg=981 gx_mdps=-1458 gy_mdps=534 gz_mdps=312 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829808 sample_ms=829802 seq=8981 dx=-2 dy=-4 mot=1 squal=54 shutter=42 rawsum=149 rawmin=217 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829858 sample_ms=829850 seq=82691 ax_mg=67 ay_mg=-23 az_mg=981 gx_mdps=-1442 gy_mdps=541 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829858 sample_ms=829852 seq=8986 dx=-6 dy=3 mot=1 squal=87 shutter=38 rawsum=122 rawmin=175 rawmax=236 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829908 sample_ms=829900 seq=82696 ax_mg=59 ay_mg=-25 az_mg=983 gx_mdps=-1442 gy_mdps=496 gz_mdps=244 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829908 sample_ms=829902 seq=8991 dx=0 dy=0 mot=0 squal=62 shutter=46 rawsum=89 rawmin=133 rawmax=170 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=829958 sample_ms=829950 seq=82701 ax_mg=67 ay_mg=-21 az_mg=984 gx_mdps=-1465 gy_mdps=526 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=829958 sample_ms=829952 seq=8996 dx=0 dy=0 mot=0 squal=95 shutter=51 rawsum=137 rawmin=195 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830008 sample_ms=830000 seq=82706 ax_mg=63 ay_mg=-26 az_mg=984 gx_mdps=-1442 gy_mdps=503 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830008 sample_ms=830002 seq=9001 dx=4 dy=4 mot=1 squal=87 shutter=37 rawsum=140 rawmin=199 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830058 sample_ms=830052 seq=82711 ax_mg=66 ay_mg=-24 az_mg=978 gx_mdps=-1450 gy_mdps=526 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830058 sample_ms=830052 seq=9006 dx=0 dy=0 mot=0 squal=66 shutter=39 rawsum=95 rawmin=140 rawmax=183 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830108 sample_ms=830102 seq=82716 ax_mg=64 ay_mg=-25 az_mg=977 gx_mdps=-1473 gy_mdps=534 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830108 sample_ms=830102 seq=9011 dx=0 dy=-1 mot=1 squal=70 shutter=49 rawsum=104 rawmin=152 rawmax=200 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830158 sample_ms=830152 seq=82721 ax_mg=68 ay_mg=-22 az_mg=981 gx_mdps=-1465 gy_mdps=496 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830158 sample_ms=830152 seq=9016 dx=-1 dy=-1 mot=1 squal=68 shutter=42 rawsum=146 rawmin=207 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830208 sample_ms=830202 seq=82726 ax_mg=63 ay_mg=-22 az_mg=982 gx_mdps=-1496 gy_mdps=534 gz_mdps=312 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830208 sample_ms=830202 seq=9021 dx=0 dy=2 mot=1 squal=80 shutter=36 rawsum=121 rawmin=173 rawmax=235 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830258 sample_ms=830252 seq=82731 ax_mg=66 ay_mg=-23 az_mg=985 gx_mdps=-1412 gy_mdps=511 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830258 sample_ms=830252 seq=9026 dx=0 dy=-1 mot=1 squal=58 shutter=44 rawsum=88 rawmin=130 rawmax=168 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830308 sample_ms=830302 seq=82736 ax_mg=67 ay_mg=-24 az_mg=980 gx_mdps=-1450 gy_mdps=496 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830308 sample_ms=830302 seq=9031 dx=0 dy=1 mot=1 squal=90 shutter=51 rawsum=128 rawmin=183 rawmax=245 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830358 sample_ms=830352 seq=82741 ax_mg=68 ay_mg=-23 az_mg=979 gx_mdps=-1412 gy_mdps=480 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830358 sample_ms=830352 seq=9036 dx=0 dy=0 mot=0 squal=76 shutter=37 rawsum=141 rawmin=200 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830408 sample_ms=830402 seq=82746 ax_mg=62 ay_mg=-22 az_mg=983 gx_mdps=-1435 gy_mdps=511 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830408 sample_ms=830402 seq=9041 dx=0 dy=2 mot=1 squal=82 shutter=37 rawsum=101 rawmin=149 rawmax=194 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830458 sample_ms=830452 seq=82751 ax_mg=68 ay_mg=-22 az_mg=980 gx_mdps=-1435 gy_mdps=534 gz_mdps=229 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830458 sample_ms=830452 seq=9046 dx=0 dy=2 mot=1 squal=63 shutter=49 rawsum=97 rawmin=142 rawmax=184 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830508 sample_ms=830502 seq=82756 ax_mg=67 ay_mg=-26 az_mg=985 gx_mdps=-1427 gy_mdps=496 gz_mdps=305 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830508 sample_ms=830502 seq=9051 dx=0 dy=2 mot=1 squal=73 shutter=44 rawsum=145 rawmin=207 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830558 sample_ms=830552 seq=82761 ax_mg=65 ay_mg=-23 az_mg=983 gx_mdps=-1419 gy_mdps=534 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830558 sample_ms=830552 seq=9056 dx=3 dy=-1 mot=1 squal=87 shutter=38 rawsum=125 rawmin=179 rawmax=243 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830608 sample_ms=830602 seq=82766 ax_mg=66 ay_mg=-25 az_mg=978 gx_mdps=-1381 gy_mdps=541 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830608 sample_ms=830602 seq=9061 dx=0 dy=2 mot=1 squal=62 shutter=44 rawsum=90 rawmin=133 rawmax=171 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830658 sample_ms=830652 seq=82771 ax_mg=64 ay_mg=-21 az_mg=977 gx_mdps=-1442 gy_mdps=519 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830658 sample_ms=830652 seq=9066 dx=0 dy=0 mot=0 squal=89 shutter=51 rawsum=122 rawmin=176 rawmax=236 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830708 sample_ms=830702 seq=82776 ax_mg=65 ay_mg=-22 az_mg=984 gx_mdps=-1389 gy_mdps=580 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830708 sample_ms=830702 seq=9071 dx=6 dy=-4 mot=1 squal=69 shutter=39 rawsum=146 rawmin=208 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830758 sample_ms=830752 seq=82781 ax_mg=65 ay_mg=-24 az_mg=981 gx_mdps=-1442 gy_mdps=534 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830758 sample_ms=830752 seq=9076 dx=0 dy=0 mot=0 squal=79 shutter=37 rawsum=106 rawmin=153 rawmax=203 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830808 sample_ms=830802 seq=82786 ax_mg=66 ay_mg=-23 az_mg=980 gx_mdps=-1419 gy_mdps=549 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830808 sample_ms=830802 seq=9081 dx=1 dy=10 mot=1 squal=60 shutter=49 rawsum=93 rawmin=138 rawmax=180 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830858 sample_ms=830852 seq=82791 ax_mg=65 ay_mg=-20 az_mg=979 gx_mdps=-1404 gy_mdps=496 gz_mdps=305 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830858 sample_ms=830852 seq=9086 dx=0 dy=0 mot=0 squal=74 shutter=46 rawsum=144 rawmin=204 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830908 sample_ms=830902 seq=82796 ax_mg=65 ay_mg=-24 az_mg=980 gx_mdps=-1442 gy_mdps=465 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830908 sample_ms=830902 seq=9091 dx=2 dy=-2 mot=1 squal=89 shutter=38 rawsum=129 rawmin=184 rawmax=250 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=830958 sample_ms=830952 seq=82801 ax_mg=65 ay_mg=-24 az_mg=983 gx_mdps=-1480 gy_mdps=511 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=830958 sample_ms=830952 seq=9096 dx=0 dy=0 mot=0 squal=62 shutter=42 rawsum=91 rawmin=136 rawmax=175 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831008 sample_ms=831002 seq=82806 ax_mg=67 ay_mg=-22 az_mg=984 gx_mdps=-1442 gy_mdps=488 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831008 sample_ms=831002 seq=9101 dx=0 dy=0 mot=0 squal=83 shutter=51 rawsum=115 rawmin=166 rawmax=223 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831058 sample_ms=831052 seq=82811 ax_mg=63 ay_mg=-26 az_mg=983 gx_mdps=-1480 gy_mdps=519 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831058 sample_ms=831052 seq=9106 dx=-1 dy=-3 mot=1 squal=57 shutter=41 rawsum=148 rawmin=214 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831108 sample_ms=831102 seq=82816 ax_mg=65 ay_mg=-23 az_mg=982 gx_mdps=-1404 gy_mdps=572 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831108 sample_ms=831102 seq=9111 dx=1 dy=-6 mot=1 squal=84 shutter=37 rawsum=111 rawmin=162 rawmax=214 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831158 sample_ms=831152 seq=82821 ax_mg=65 ay_mg=-21 az_mg=982 gx_mdps=-1488 gy_mdps=526 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831158 sample_ms=831152 seq=9116 dx=0 dy=0 mot=0 squal=61 shutter=47 rawsum=90 rawmin=134 rawmax=172 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831208 sample_ms=831202 seq=82826 ax_mg=67 ay_mg=-25 az_mg=980 gx_mdps=-1496 gy_mdps=511 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831208 sample_ms=831202 seq=9121 dx=0 dy=0 mot=0 squal=89 shutter=49 rawsum=135 rawmin=193 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831258 sample_ms=831252 seq=82831 ax_mg=65 ay_mg=-25 az_mg=983 gx_mdps=-1465 gy_mdps=435 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831258 sample_ms=831252 seq=9126 dx=0 dy=-10 mot=1 squal=96 shutter=38 rawsum=133 rawmin=189 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831308 sample_ms=831302 seq=82836 ax_mg=67 ay_mg=-24 az_mg=982 gx_mdps=-1465 gy_mdps=549 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831308 sample_ms=831302 seq=9131 dx=-1 dy=-1 mot=1 squal=65 shutter=40 rawsum=94 rawmin=139 rawmax=181 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831358 sample_ms=831352 seq=82841 ax_mg=66 ay_mg=-21 az_mg=983 gx_mdps=-1435 gy_mdps=526 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831358 sample_ms=831352 seq=9136 dx=0 dy=-1 mot=1 squal=77 shutter=51 rawsum=109 rawmin=158 rawmax=208 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831408 sample_ms=831402 seq=82846 ax_mg=64 ay_mg=-21 az_mg=984 gx_mdps=-1458 gy_mdps=572 gz_mdps=251 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831408 sample_ms=831402 seq=9141 dx=5 dy=-1 mot=1 squal=55 shutter=43 rawsum=148 rawmin=217 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831458 sample_ms=831452 seq=82851 ax_mg=63 ay_mg=-24 az_mg=981 gx_mdps=-1526 gy_mdps=519 gz_mdps=213 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831458 sample_ms=831452 seq=9146 dx=4 dy=5 mot=1 squal=76 shutter=37 rawsum=116 rawmin=168 rawmax=225 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831508 sample_ms=831502 seq=82856 ax_mg=65 ay_mg=-24 az_mg=980 gx_mdps=-1450 gy_mdps=534 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831508 sample_ms=831502 seq=9151 dx=0 dy=5 mot=1 squal=62 shutter=45 rawsum=88 rawmin=131 rawmax=169 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831558 sample_ms=831552 seq=82861 ax_mg=64 ay_mg=-23 az_mg=981 gx_mdps=-1442 gy_mdps=519 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831558 sample_ms=831552 seq=9156 dx=-1 dy=-2 mot=1 squal=90 shutter=49 rawsum=127 rawmin=182 rawmax=245 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831608 sample_ms=831602 seq=82866 ax_mg=66 ay_mg=-25 az_mg=983 gx_mdps=-1458 gy_mdps=549 gz_mdps=213 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831608 sample_ms=831602 seq=9161 dx=-5 dy=9 mot=1 squal=90 shutter=38 rawsum=135 rawmin=192 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831658 sample_ms=831652 seq=82871 ax_mg=67 ay_mg=-23 az_mg=980 gx_mdps=-1465 gy_mdps=503 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831658 sample_ms=831652 seq=9166 dx=0 dy=1 mot=1 squal=68 shutter=40 rawsum=99 rawmin=145 rawmax=191 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831708 sample_ms=831702 seq=82876 ax_mg=64 ay_mg=-21 az_mg=983 gx_mdps=-1389 gy_mdps=541 gz_mdps=305 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831708 sample_ms=831702 seq=9171 dx=0 dy=2 mot=1 squal=74 shutter=51 rawsum=105 rawmin=153 rawmax=200 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831758 sample_ms=831752 seq=82881 ax_mg=68 ay_mg=-24 az_mg=981 gx_mdps=-1450 gy_mdps=473 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831758 sample_ms=831752 seq=9176 dx=0 dy=-5 mot=1 squal=64 shutter=43 rawsum=146 rawmin=210 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831808 sample_ms=831802 seq=82886 ax_mg=66 ay_mg=-23 az_mg=982 gx_mdps=-1419 gy_mdps=488 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831808 sample_ms=831802 seq=9181 dx=3 dy=1 mot=1 squal=84 shutter=37 rawsum=119 rawmin=173 rawmax=231 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831858 sample_ms=831852 seq=82891 ax_mg=63 ay_mg=-23 az_mg=980 gx_mdps=-1427 gy_mdps=473 gz_mdps=244 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831858 sample_ms=831852 seq=9186 dx=0 dy=0 mot=0 squal=57 shutter=45 rawsum=89 rawmin=133 rawmax=171 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831908 sample_ms=831902 seq=82896 ax_mg=65 ay_mg=-25 az_mg=981 gx_mdps=-1442 gy_mdps=511 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831908 sample_ms=831902 seq=9191 dx=0 dy=0 mot=0 squal=86 shutter=49 rawsum=123 rawmin=177 rawmax=239 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=831958 sample_ms=831952 seq=82901 ax_mg=63 ay_mg=-25 az_mg=978 gx_mdps=-1473 gy_mdps=511 gz_mdps=274 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=831958 sample_ms=831952 seq=9196 dx=0 dy=-5 mot=1 squal=98 shutter=38 rawsum=136 rawmin=194 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832008 sample_ms=832002 seq=82906 ax_mg=66 ay_mg=-20 az_mg=980 gx_mdps=-1450 gy_mdps=458 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832008 sample_ms=832002 seq=9201 dx=1 dy=0 mot=1 squal=72 shutter=38 rawsum=102 rawmin=150 rawmax=198 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832058 sample_ms=832052 seq=82911 ax_mg=64 ay_mg=-24 az_mg=978 gx_mdps=-1458 gy_mdps=480 gz_mdps=259 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832058 sample_ms=832052 seq=9206 dx=1 dy=-1 mot=1 squal=72 shutter=51 rawsum=98 rawmin=145 rawmax=189 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832108 sample_ms=832102 seq=82916 ax_mg=63 ay_mg=-24 az_mg=983 gx_mdps=-1419 gy_mdps=557 gz_mdps=267 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832108 sample_ms=832102 seq=9211 dx=5 dy=-6 mot=1 squal=47 shutter=45 rawsum=148 rawmin=215 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832158 sample_ms=832152 seq=82921 ax_mg=65 ay_mg=-24 az_mg=984 gx_mdps=-1488 gy_mdps=557 gz_mdps=297 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832158 sample_ms=832152 seq=9216 dx=-11 dy=10 mot=1 squal=83 shutter=37 rawsum=121 rawmin=174 rawmax=235 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832208 sample_ms=832202 seq=82926 ax_mg=64 ay_mg=-28 az_mg=981 gx_mdps=-1458 gy_mdps=519 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832208 sample_ms=832202 seq=9221 dx=0 dy=4 mot=1 squal=54 shutter=43 rawsum=87 rawmin=130 rawmax=168 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832258 sample_ms=832252 seq=82931 ax_mg=65 ay_mg=-23 az_mg=984 gx_mdps=-1412 gy_mdps=526 gz_mdps=236 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832258 sample_ms=832252 seq=9226 dx=0 dy=1 mot=1 squal=86 shutter=49 rawsum=120 rawmin=173 rawmax=232 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832308 sample_ms=832302 seq=82936 ax_mg=67 ay_mg=-23 az_mg=976 gx_mdps=-1450 gy_mdps=473 gz_mdps=290 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832308 sample_ms=832302 seq=9231 dx=0 dy=-2 mot=1 squal=92 shutter=38 rawsum=137 rawmin=195 rawmax=255 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
+IMU t_ms=832358 sample_ms=832352 seq=82941 ax_mg=66 ay_mg=-26 az_mg=976 gx_mdps=-1442 gy_mdps=526 gz_mdps=282 status=OK id=0x68 config=OK errors=2
+FLOW t_ms=832358 sample_ms=832352 seq=9236 dx=0 dy=-3 mot=1 squal=70 shutter=38 rawsum=106 rawmin=155 rawmax=205 obs=0xBF status=TRACKING id=0x49 rev=0x01 inv=0xB6 errors=672
